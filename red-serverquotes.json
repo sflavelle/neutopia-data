@@ -5,6 +5,18 @@
             "author_id" : "49288117307310080",
             "author_name" : "Lily",
             "text" : "I'm a fuckin' weirdo, I know"
+        },
+        {
+            "added_by" : "49288117307310080",
+            "author_id" : null,
+            "author_name" : "Coestar",
+            "text" : "We all have the same eyes!"
+        },
+        {
+            "added_by" : "49288117307310080",
+            "author_id" : null,
+            "author_name" : "Waypoint",
+            "text" : "Birds are now mechanics because of course they are."
         }
     ]
 }
