@@ -58,7 +58,7 @@
             "\ud83c\udf99 Want to get pregnant without a man? Just use baby powder!"
         ],
         "server" : "206734382990360576",
-        "triggered" : 0,
+        "triggered" : 4,
         "triggered_by" : "^([bB]ot{1,2} )?[Ff]acts$",
         "type" : "random"
     },
@@ -113,8 +113,8 @@
             "The Radioactive Puppies of Chernobyl Are Finally Here and People Are Dead"
         ],
         "server" : "206734382990360576",
-        "triggered" : 0,
-        "triggered_by" : "^[wW]hat (else )?did [iI] miss$",
+        "triggered" : 10,
+        "triggered_by" : "^[wW]hat (else )?did [iI] miss\\??$",
         "type" : "random"
     }
 ]
